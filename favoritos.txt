@@ -1,0 +1,1 @@
+echo "função de marcação de contatos favoritos" > favoritos.txt
